@@ -1,0 +1,11 @@
+# Ignore processed data
+data/video/raw/
+data/video/processed/
+data/image/processed/
+
+# Ignore model weights
+*.pt
+
+# Ignore cache
+__pycache__/
+*.pyc
